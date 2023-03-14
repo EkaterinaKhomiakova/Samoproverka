@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Самопроверка\Задача 10\bin\Debug\net7.0\Задача 10.exe
+C:\Users\admin\Desktop\Самопроверка\Задача 10\bin\Debug\net7.0\Задача 10.deps.json
+C:\Users\admin\Desktop\Самопроверка\Задача 10\bin\Debug\net7.0\Задача 10.runtimeconfig.json
+C:\Users\admin\Desktop\Самопроверка\Задача 10\bin\Debug\net7.0\Задача 10.dll
+C:\Users\admin\Desktop\Самопроверка\Задача 10\bin\Debug\net7.0\Задача 10.pdb
+C:\Users\admin\Desktop\Самопроверка\Задача 10\obj\Debug\net7.0\Задача 10.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Самопроверка\Задача 10\obj\Debug\net7.0\Задача 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Самопроверка\Задача 10\obj\Debug\net7.0\Задача 10.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Самопроверка\Задача 10\obj\Debug\net7.0\Задача 10.AssemblyInfo.cs
+C:\Users\admin\Desktop\Самопроверка\Задача 10\obj\Debug\net7.0\Задача 10.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Самопроверка\Задача 10\obj\Debug\net7.0\Задача 10.dll
+C:\Users\admin\Desktop\Самопроверка\Задача 10\obj\Debug\net7.0\refint\Задача 10.dll
+C:\Users\admin\Desktop\Самопроверка\Задача 10\obj\Debug\net7.0\Задача 10.pdb
+C:\Users\admin\Desktop\Самопроверка\Задача 10\obj\Debug\net7.0\Задача 10.genruntimeconfig.cache
+C:\Users\admin\Desktop\Самопроверка\Задача 10\obj\Debug\net7.0\ref\Задача 10.dll
